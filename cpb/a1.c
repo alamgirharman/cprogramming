@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello cpb!\n");
+    printf("Hello programming\n");
 
     return 0;
 }
